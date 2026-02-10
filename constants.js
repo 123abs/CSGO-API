@@ -23,10 +23,10 @@ export const IMAGES_INVENTORY_URL =
     "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/images.json";
 
 export const LANGUAGES_URL = [
-    //{ ... 
-     //   language: "english",
-   //     folder: "en",
-     //   url: getLanguageUrl("english"),
+    
+      language: "english",
+     folder: "en",
+       url: getLanguageUrl("english"),
   //  },
   //  {
   //      language: "schinese",
